@@ -1,4 +1,6 @@
 Retail Case Study Analysis
+
+![Retail store]()
 Overview
 This project analyzes retail data to extract meaningful insights about sales trends, customer behavior, and product performance. The analysis was conducted using SQL and visualization tools to address key business questions and make actionable recommendations.
 
